@@ -289,6 +289,12 @@ nav .fa-solid{
     display: none;
 }
 
+footer{
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+}
 
 @media only screen and (max-width: 600px){
     #header{
